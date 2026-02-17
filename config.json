@@ -1,0 +1,14 @@
+{
+    "budget": 5000,
+    "watchlist": [
+        "AAPL", "MSFT", "NVDA", "TSLA", "AMZN",
+        "META", "GOOGL", "AMD", "SPY", "QQQ",
+        "NFLX", "COIN", "PLTR", "SOFI", "BAC"
+    ],
+    "max_days_to_expiry": 45,
+    "min_days_to_expiry": 7,
+    "min_volume": 100,
+    "min_open_interest": 500,
+    "max_premium_pct_of_budget": 0.10,
+    "output_dir": "reports"
+}
